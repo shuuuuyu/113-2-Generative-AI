@@ -12,6 +12,6 @@
 ## 📝 作業練習
 | 上課日期  | 作業名稱 | 狀態 |
 |-----------|------------------------------|--------|
-| 2024-02-18 | [assignment_1_畫函數圖形.ipynb](https://colab.research.google.com/drive/1JAXxfn04Hbzv65BcqlaK6vNhuZFn2Q1K?usp=sharing) | ✅ 已完成 |
+| 2024-02-18 | [assignment_1_畫函數圖形.ipynb](assignment_1_畫函數圖形.ipynb) | ✅ 已完成 |
 | 2024-02-25 | [assignment_2_.ipynb] | ⏳ 進行中 |
 | 2024-03-04 | [assignment_3_.ipynb] | ❌ 未開始 |
