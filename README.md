@@ -12,5 +12,6 @@
 | 上課日期  | 作業名稱 | 狀態 |
 |-----------|------------------------------|--------|
 | 2024-02-18 | [assignment_1_畫函數圖形.ipynb](assignment_1_畫函數圖形.ipynb) | ✅ 已完成 |
-| 2024-02-25 | [assignment_2_.ipynb] | ⏳ 進行中 |
-| 2024-03-04 | [assignment_3_.ipynb] | ❌ 未開始 |
+| 2024-02-25 | [assignment_2_我的第一個神經網路.ipynb](assignment_2_我的第一個神經網路.ipynb) | ✅ 已完成 |
+| 2024-03-04 | [assignment_3_.ipynb] | ⏳ 進行中 |
+| 2024-03-11 | [assignment_4_.ipynb] | ❌ 未開始 |
