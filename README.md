@@ -14,7 +14,7 @@
 | 2024-02-18 | [assignment_1_畫函數圖形.ipynb](assignment_1_畫函數圖形.ipynb) | ✅ 已完成 |
 | 2024-02-25 | [assignment_2_我的第一個神經網路.ipynb](assignment_2_我的第一個神經網路.ipynb) | ✅ 已完成 |
 | 2024-03-04 | [assignment_3_GAN模型(主題一).ipynb](assignment_3_GAN模型(主題一).ipynb) | ✅ 已完成 |
-| 2024-03-11 | [assignment_4_建立自己的benchmarks.ipynb] | ⏳ 進行中 |
+| 2024-03-11 | [assignment_4_建立自己的benchmarks.ipynb](assignment_4_建立自己的benchmarks.ipynb) | ✅ 已完成 |
 | 2024-03-25 | [assignment_5_用OpenAI API打造自己的對話機器人.ipynb] | ⏳ 進行中 |
 | 2024-04-01 | [assignment_6_打造自己的對話機器人-進階版.ipynb] | ⏳ 進行中 |
 | 2024-04-08 | [assignment_7_實作RAG系統.ipynb] | ⏳ 進行中 |
