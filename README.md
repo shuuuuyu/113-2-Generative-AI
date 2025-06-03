@@ -16,7 +16,7 @@
 | 2024-03-04 | [assignment_3_GAN模型(主題一).ipynb](assignment_3_GAN模型(主題一).ipynb) | ✅ 已完成 |
 | 2024-03-11 | [assignment_4_建立自己的benchmarks.ipynb](assignment_4_建立自己的benchmarks.ipynb) | ✅ 已完成 |
 | 2024-03-25 | [assignment_5_用OpenAI API打造自己的對話機器人.ipynb](assignment_5_用OpenAI_API打造自己的對話機器人.ipynb) | ✅ 已完成 |
-| 2024-04-01 | [assignment_6_打造自己的對話機器人-進階版.ipynb](assignment_6_打造自己的對話機器人_進階版.ipynb) | ✅ 已完成 |
+| 2024-04-01 | [assignment_6_打造自己的對話機器人-進階版.ipynb](assignment_6_打造自己的對話機器人_進階版.ipynb) | ✅ 已完成 [失敗版本](fail.ipynb)|
 | 2024-04-08 | [assignment_7_實作RAG系統.ipynb] | ⏳ 進行中 |
 | 2024-04-15 | [assignment_8_AI Agents：打造你專屬的超級代理人。.ipynb] | ⏳ 進行中 |
 | 2024-04-22 | [assignment_9_利用Bing 進行文字生圖。(Diffusion modle).ipynb] | ⏳ 進行中 |
