@@ -18,7 +18,7 @@
 | 2024-03-25 | [assignment_5_用OpenAI API打造自己的對話機器人.ipynb](assignment_5_用OpenAI_API打造自己的對話機器人.ipynb) | ✅ 已完成 |
 | 2024-04-01 | [assignment_6_打造自己的對話機器人-進階版.ipynb](assignment_6_打造自己的對話機器人_進階版.ipynb) | ✅ 已完成 [失敗版本](fail.ipynb)|
 | 2024-04-08 | [assignment_7_實作RAG系統.ipynb](assignment_7_實作RAG系統.ipynb) | ✅ 已完成 [打造向量資料庫](打造向量資料庫.ipynb)|
-| 2024-04-15 | [assignment_8_AI Agents：打造你專屬的超級代理人。.ipynb] | ⏳ 進行中  |
+| 2024-04-15 | [assignment_8_AI Agents：打造你專屬的超級代理人。.ipynb](assignment_8_AI_Agents：打造你專屬的超級代理人.ipynb) | ✅ 已完成  |
 | 2024-04-22 | [assignment_9_利用Bing 進行文字生圖。(Diffusion modle).ipynb] | ⏳ 進行中 |
 | 2024-04-29 | [assignment_10_打造自己的圖像生成Web App!.ipynb] | ⏳ 進行中 |
 | 2024-05-06 | [assignment_11_AI 圖像生成創作任務：打造你的 Fooocus Workflow !.ipynb] | ⏳ 進行中 |
