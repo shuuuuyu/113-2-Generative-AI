@@ -21,6 +21,6 @@
 | 2024-04-15 | [assignment_8_AI Agents：打造你專屬的超級代理人。.ipynb](assignment_8_AI_Agents：打造你專屬的超級代理人.ipynb) | ✅ 已完成  |
 | 2024-04-22 | [assignment_9_利用Bing 進行文字生圖(Diffusion modle).ipynb](assignment_9_利用Bing_進行文字生圖(Diffusion_modle).ipynb) | ✅ 已完成 |
 | 2024-04-29 | [assignment_10_打造自己的圖像生成Web App.ipynb](assignment_10_打造自己的圖像生成Web_App.ipynb) | ✅ 已完成 |
-| 2024-05-06 | [assignment_11_AI 圖像生成創作任務：打造你的Fooocus Workflow.pdf](assignment_11_AI圖像生成創作任務：打造你的Fooocus_Workflow.pdf) | ✅ 已完成  圖檔太大[notion 連結](https://www.notion.so/AI-Fooocus-Workflow-207a64e40eb48070ad1bee18cfe01e42?source=copy_link)|
+| 2024-05-06 | [assignment_11_AI 圖像生成創作任務：打造你的Fooocus Workflow.pdf](assignment_11_AI圖像生成創作任務：打造你的Fooocus_Workflow.pdf) | ✅ 已完成  \n圖檔太大[notion 連結](https://www.notion.so/AI-Fooocus-Workflow-207a64e40eb48070ad1bee18cfe01e42?source=copy_link)|
 | 2024-05-20 | [期末專案_鏡塔_塔羅占卜互動程式.ipynb](期末專案_鏡塔_塔羅占卜互動程式.ipynb) | ✅ 已完成 |
 
